@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpnamausa
 - 👀 I’m interested in ... Iaas SaaS Python Powershell Automation Security 
-- 🌱 I’m currently learning ...Python in VS Code
+- 🌱 I’m currently learning ...Networking from scratch (C )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Slack @jasonP
 
