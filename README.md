@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpnamausa
 - 👀 I’m interested in ... Iaas SaaS Cloud + all night coding sessions 
-- 🌱 I’m currently learning ...Networking from scratch (C ),JavaScript,Microsoft Server 2016 
+- 🌱 I’m currently learning ...Go, Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Slack @jasonP
 
