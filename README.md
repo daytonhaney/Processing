@@ -1,6 +1,4 @@
-# Processing - feels like a language mixed of javascript and java 
-
-
+# Processing.org
 
 #### The first project that I ever created as freshman intro to CS class
 
