@@ -19,13 +19,13 @@ String [] randoms = {" C ", " H ", " J ", " P ", " F ", " W "}; // made to confu
 
 
 boolean j = false; // activating my boolean 
-/*
+
            also using the white space above the set up
  to chose the type of variable i need 
  and give these variables their values
  alot of the variables i use are global
  
- */
+
 // variables incase i need color values or background changes perhaps 
 
 
