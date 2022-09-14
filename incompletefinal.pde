@@ -1,4 +1,4 @@
-*/
+/*
 import processing.sound.*;  // this is the code that needs to be typed to bring music/sound into the processing en
 
 import controlP5.*; // this is what you type to import other librarys into your envornment. the name of my library is controlP5
