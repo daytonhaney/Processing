@@ -1,4 +1,6 @@
-#### https://processing.org/
-#### The first project that I ever created as freshman intro to CS class
+# Text-Typer 9091 
 
-#### ...it doesnt work but it is called TextTyper 9091
+#### https://processing.org/
+#### The first project that I ever created as freshman intro to CS class ...
+
+#### 
