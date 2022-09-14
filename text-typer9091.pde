@@ -6,9 +6,6 @@ SoundFile sound; // activates the sound right away
 
 ControlP5 button; // activates control p5 i named it button because that is why i am using the controp5 for its buttons
 
-
-
-
 PFont font;
 String s = "Text Typer";
 String w = "Welcome to my game:";
@@ -16,37 +13,19 @@ String [] answers =  { "U", "A", "B"};  // i made my answers into an array so it
 String [] questions = {"Comp_ter Science", "Bill G_tes", "Steve Jo_s"}; // i made all my " data" into more arrays
 String [] randoms = {" C ", " H ", " J ", " P ", " F ", " W "}; // made to confuse and complicate for players
 
-
 boolean j = false; // activating my boolean 
-/*
-           also using the white space above the set up
- to chose the type of variable i need 
- and give these variables their values
- alot of the variables i use are global
- 
- */
-// variables incase i need color values or background changes perhaps 
-
-
 
 int r = 0; 
 int g = 0;
 int b = 0; 
-
-
 int Button;
 int x = 150; // where object is located on x axis 
-
 int y = 100; // y axis
-
 int speed = 2 ; // sets speed of ball
-
 int slide_me = 100;  // the buttons need names
 int slide = 100;
 int slides = 100;
 float timecheck ; 
-
-
 
 void setup() {
 
@@ -54,8 +33,6 @@ void setup() {
   // things i only need 1 time 
   font = loadFont("SegoeUIBlack-Italic-48.vlw");
   textFont(font);
-
-
 
   size(700, 500);
 
@@ -93,15 +70,12 @@ void move () {
     y = 50; // when reaching end of the height set the ball will begin back at the 0 on y axis
 }
 
-
 void display() { // draw his display first 
-
 
   fill(random(255), random(255), random(255));
   fill(200);
   textSize(45);
 }
-
 
 void question() { // next thing draw sees is the question object
 
@@ -109,8 +83,6 @@ void question() { // next thing draw sees is the question object
   text(questions[0], 150, 150);
   textSize(40);
 }
-
-
 
 void mainmenu() {
 
@@ -156,10 +128,7 @@ void mainscreen() { //another element added to the main screen
   text(s, 15, 300);
 }
 
-
 void keyReleased() {
-
-
 
   int u = 0; 
   int a = 0;
