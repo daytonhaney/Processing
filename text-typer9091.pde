@@ -1,10 +1,10 @@
 import processing.sound.*;  // this is the code that needs to be typed to bring music/sound into the processing en
 
-import controlP5.*; // this is what you type to import other librarys into your envornment. the name of my library is controlP5
+import controlP5.*; // this is what you type to import other libraries into your envornment. the name of my library is controlP5
 
 SoundFile sound; // activates the sound right away
 
-ControlP5 button; // activates control p5 i named it button because that is why i am using the controp5 for its buttons
+ControlP5 button; // activates controlP5
 
 PFont font;
 String s = "Text Typer";
@@ -19,7 +19,7 @@ int r = 0;
 int g = 0;
 int b = 0; 
 int Button;
-int x = 150; // where object is located on x axis 
+int x = 150; // in processing, (0,0) is top left corner of window .... where object is located on x axis 
 int y = 100; // y axis
 int speed = 2 ; // sets speed of ball
 int slide_me = 100;  // the buttons need names
