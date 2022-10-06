@@ -1,9 +1,6 @@
 import processing.sound.*;  // this is the code that needs to be typed to bring music/sound into the processing en
-
 import controlP5.*; // this is what you type to import other libraries into your envornment. the name of my library is controlP5
-
 SoundFile sound; // activates the sound right away
-
 ControlP5 button; // activates controlP5
 
 PFont font;
@@ -29,12 +26,12 @@ float timecheck ;
 
 void setup() {
 
-  // this is my canvas  for the set up area
-  // things i only need 1 time 
+  // this is my canvas for the set up area
+  // + things i only need 1 time 
   font = loadFont("SegoeUIBlack-Italic-48.vlw");
   textFont(font);
 
-  size(700, 500);
+  size(700, 500); // creating the size of the window in pixles
 
   button = new ControlP5(this);
 
